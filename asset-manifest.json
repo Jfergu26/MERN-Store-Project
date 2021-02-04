@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MERN-Store-Project/static/css/main.09853d56.chunk.css",
+    "main.js": "/MERN-Store-Project/static/js/main.0d80b5d5.chunk.js",
+    "main.js.map": "/MERN-Store-Project/static/js/main.0d80b5d5.chunk.js.map",
+    "runtime-main.js": "/MERN-Store-Project/static/js/runtime-main.0b24f905.js",
+    "runtime-main.js.map": "/MERN-Store-Project/static/js/runtime-main.0b24f905.js.map",
+    "static/js/2.05149b16.chunk.js": "/MERN-Store-Project/static/js/2.05149b16.chunk.js",
+    "static/js/2.05149b16.chunk.js.map": "/MERN-Store-Project/static/js/2.05149b16.chunk.js.map",
+    "static/js/3.aede281d.chunk.js": "/MERN-Store-Project/static/js/3.aede281d.chunk.js",
+    "static/js/3.aede281d.chunk.js.map": "/MERN-Store-Project/static/js/3.aede281d.chunk.js.map",
+    "index.html": "/MERN-Store-Project/index.html",
+    "static/css/main.09853d56.chunk.css.map": "/MERN-Store-Project/static/css/main.09853d56.chunk.css.map",
+    "static/js/2.05149b16.chunk.js.LICENSE.txt": "/MERN-Store-Project/static/js/2.05149b16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b24f905.js",
+    "static/js/2.05149b16.chunk.js",
+    "static/css/main.09853d56.chunk.css",
+    "static/js/main.0d80b5d5.chunk.js"
+  ]
+}
