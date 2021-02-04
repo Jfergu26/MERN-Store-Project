@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jfergu26.github.io/MERN-Store-Project/frontend",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
@@ -12,14 +13,15 @@
     "react-scripts": "4.0.2",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "https://jfergu26.github.io/MERN-Store-Project/",
+  
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [
